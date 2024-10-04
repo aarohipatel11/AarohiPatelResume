@@ -1,4 +1,4 @@
-# AarohiPatelSimulation
+# Aarohi Patel Simulation
 
 Simulation Program:
 A C++ program that enables users to adjust parameters to assess the optimal number of stations required for maximizing system
