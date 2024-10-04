@@ -1,0 +1,58 @@
+Here is your data for 7 checkout lines:
+
+CHECKOUT LINE: 	1
+	Total Customers Helped:   222
+	Total Number of Items:    3434
+	Max Line Length:          7
+	Total Idle Time:          78
+	Total Over Time:          3
+
+
+CHECKOUT LINE: 	2
+	Total Customers Helped:   204
+	Total Number of Items:    3446
+	Max Line Length:          5
+	Total Idle Time:          75
+	Total Over Time:          2
+
+
+CHECKOUT LINE: 	3
+	Total Customers Helped:   212
+	Total Number of Items:    3438
+	Max Line Length:          5
+	Total Idle Time:          79
+	Total Over Time:          3
+
+
+CHECKOUT LINE: 	4
+	Total Customers Helped:   219
+	Total Number of Items:    3408
+	Max Line Length:          7
+	Total Idle Time:          79
+	Total Over Time:          3
+
+
+CHECKOUT LINE: 	5
+	Total Customers Helped:   206
+	Total Number of Items:    3410
+	Max Line Length:          6
+	Total Idle Time:          74
+	Total Over Time:          1
+
+
+CHECKOUT LINE: 	6
+	Total Customers Helped:   213
+	Total Number of Items:    3455
+	Max Line Length:          7
+	Total Idle Time:          84
+	Total Over Time:          4
+
+
+CHECKOUT LINE: 	7
+	Total Customers Helped:   207
+	Total Number of Items:    3408
+	Max Line Length:          7
+	Total Idle Time:          72
+	Total Over Time:          0
+
+
